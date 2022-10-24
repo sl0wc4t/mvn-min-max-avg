@@ -1,3 +1,7 @@
 # Project exclude paths
 /target/
 /.idea/workspace.xml
+/.idea/compiler.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/mvn-min-max-avg.iml
